@@ -1,6 +1,5 @@
 ### Hi there, I'm Frédéric 👋
 [![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Ffredericpinaud.fr)](https://fredericpinaud.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FredericPinaud?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFredericPinaud&screen_name=FredericPinaud)
 
 ## Devops, 3D printer, and woodworker !
 
@@ -10,8 +9,7 @@
 
 ### Connect with me: 
 
-<img align="left" alt="me.fredericpinaud.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="FredericPinaud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="fredericpinaud.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="frederic-pinaud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
